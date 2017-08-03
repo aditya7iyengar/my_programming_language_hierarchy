@@ -1,7 +1,6 @@
-My Programming Language Hierarchy:
-------------------------------------------------------------------------------
+# My Programming Language Hierarchy:
 
-Based on the following factors (in order):
+## Based on the following factors (in order):
   - Architecture
   - Is its existence justified?
   - Potential for future
@@ -84,9 +83,9 @@ Based on the following factors (in order):
 |57    | JavaScript      | 50          |                                      |
 |58    | Python          | 10          |                                      |
 
-------------------------------------------------------------------------------
 
-Languages next:
+## Languages to try next:
+
 - Puppet
 - Pascal
 - Clean
