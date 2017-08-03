@@ -3,15 +3,15 @@ My Programming Language Hierarchy:
 
 Based on the following factors (in order):
   - Architecture
-    - Is its existence justified?
-    - Potential for future
-    - Pleasure of writing
-    - Standard Libraries
-    - Community
-    - Flexibility/Configurability
-    - Coolness Quotient/Metaprogramming/Other cool features
-    - Balance of Performance:Productivity
-    - Syntax
+  - Is its existence justified?
+  - Potential for future
+  - Pleasure of writing
+  - Standard Libraries
+  - Community
+  - Flexibility/Configurability
+  - Coolness Quotient/Metaprogramming/Other cool features
+  - Balance of Performance:Productivity
+  - Syntax
 
 ------------------------------------------------------------------------------
 
