@@ -28,7 +28,7 @@
 |2     | Haskell         | 850         |                                      |                          |
 |3     | Elm             | 800         |                                      |                          |
 |4     | Rust            | 725         |                                      |                          |
-|5     | Elixir          | 720         |                                      | [elixir.md] (https://github.com/aditya7iyengar/my_programming_language_hierarchy/blob/master/description/elixir.md)|
+|5     | Elixir          | 720         |                                      | [elixir.md](https://github.com/aditya7iyengar/my_programming_language_hierarchy/blob/master/description/elixir.md)|
 |6     | Erlang          | 680         |                                      |                          |
 |7     | Clojure         | 675         |                                      |                          |
 |8     | D               | 650         |                                      |                          |
