@@ -54,4 +54,32 @@ __Yes__
 Having a prominent member of the Rails team, Jose Valim, being the author and
 maintainer, and a syntax strickingly similar to Ruby, Elixir has a bright future, imo.
 
+
 ## Pleasure of Writing
+
+One of the best things about writing functional programming is that it feels natural.
+And elixir takes it to the next level by adding `|>` (pipe operator). It might seem
+like syntactical sugar at first, but this operator allowws developer to write
+as they think, which often ends up being a good enough design. Not to mention, it
+makes the code look pretty.
+
+Another feature of elixir is pattern matching combined with multiple function clauses.
+Instead of the tedious conditionals in a function, elixir enables separation of concerns
+by allowing multiple function clauses for a function definition. Which means a developer
+can pattern match in a function's clause for a specific set of arguments. This
+makes developers happy because (again) it feels more natural.
+
+Overall, elixir is one of the most pleasurable languages to write, imo.
+
+
+## Standard Libraries
+
+Elixir has a decent set of standard libraries (Thanks to OTP).
+Elixir has a lot of abstractions from OTP like GenServer and Task, but has some of its
+own implementations of such libraries like GenStage and Flow, which give it a
+unique flavor and take client-server model to the next level.
+
+
+## Community
+
+
