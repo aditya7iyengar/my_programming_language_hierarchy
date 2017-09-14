@@ -53,35 +53,37 @@
 |27    | Mars            | 420         |                                      |                                                                                                                             |
 |28    | Pure            | 420         |                                      |                                                                                                                             |
 |29    | Q               | 419         |                                      |                                                                                                                             |
-|30    | Ada             | 410         |                                      |                                                                                                                             |
-|31    | B               | 405         |                                      |                                                                                                                             |
-|32    | Eve             | 405         |                                      |                                                                                                                             |
-|33    | Mercury         | 405         |                                      |                                                                                                                             |
-|34    | Electron        | 405         |                                      |                                                                                                                             |
-|35    | PHP             | 405         |                                      |                                                                                                                             |
-|36    | MATLAB          | 405         |                                      |                                                                                                                             |
-|37    | R               | 400         |                                      |                                                                                                                             |
-|38    | Visual Basic    | 350         |                                      |                                                                                                                             |
-|39    | AppleScript     | 300         |                                      |                                                                                                                             |
-|40    | Curl            | 300         |                                      |                                                                                                                             |
-|41    | HTML            | 300         |                                      |                                                                                                                             |
-|42    | Prolog          | 290         |                                      |                                                                                                                             |
-|43    | Scheme          | 289         |                                      |                                                                                                                             |
-|44    | MUMPS           | 285         |                                      |                                                                                                                             |
-|45    | Perl            | 280         |                                      |                                                                                                                             |
-|46    | Z Shell         | 275         |                                      |                                                                                                                             |
-|47    | Bash            | 250         |                                      |                                                                                                                             |
-|48    | Logo            | 250         |                                      |                                                                                                                             |
-|49    | SAS             | 240         |                                      |                                                                                                                             |
-|50    | CUDA            | 225         |                                      |                                                                                                                             |
-|51    | Red             | 220         |                                      |                                                                                                                             |
-|52    | Rebol           | 210         |                                      |                                                                                                                             |
-|53    | Maple           | 210         |                                      |                                                                                                                             |
-|54    | TypeScript      | 210         |                                      |                                                                                                                             |
-|55    | CoffeeScript    | 200         |                                      |                                                                                                                             |
-|56    | OpenEdge ABL    | 200         |                                      |                                                                                                                             |
-|57    | JavaScript      | 50          |                                      |                                                                                                                             |
-|58    | Python          | 10          |                                      |                                                                                                                             |
+|30    | Cyrstal         | 415         |                                      |                                                                                                                             |
+|31    | Ada             | 410         |                                      |                                                                                                                             |
+|32    | B               | 405         |                                      |                                                                                                                             |
+|33    | Eve             | 405         |                                      |                                                                                                                             |
+|34    | Pony            | 404         |                                      |                                                                                                                             |
+|35    | Mercury         | 404         |                                      |                                                                                                                             |
+|36    | Electron        | 403         |                                      |                                                                                                                             |
+|37    | PHP             | 402         |                                      |                                                                                                                             |
+|38    | MATLAB          | 402         |                                      |                                                                                                                             |
+|39    | R               | 400         |                                      |                                                                                                                             |
+|40    | Visual Basic    | 350         |                                      |                                                                                                                             |
+|41    | AppleScript     | 300         |                                      |                                                                                                                             |
+|42    | Curl            | 300         |                                      |                                                                                                                             |
+|43    | HTML            | 300         |                                      |                                                                                                                             |
+|44    | Prolog          | 290         |                                      |                                                                                                                             |
+|45    | Scheme          | 289         |                                      |                                                                                                                             |
+|46    | MUMPS           | 285         |                                      |                                                                                                                             |
+|47    | Perl            | 280         |                                      |                                                                                                                             |
+|48    | Z Shell         | 275         |                                      |                                                                                                                             |
+|49    | Bash            | 250         |                                      |                                                                                                                             |
+|50    | Logo            | 250         |                                      |                                                                                                                             |
+|51    | SAS             | 240         |                                      |                                                                                                                             |
+|52    | CUDA            | 225         |                                      |                                                                                                                             |
+|53    | Red             | 220         |                                      |                                                                                                                             |
+|54    | Rebol           | 210         |                                      |                                                                                                                             |
+|55    | Maple           | 210         |                                      |                                                                                                                             |
+|56    | TypeScript      | 210         |                                      |                                                                                                                             |
+|57    | CoffeeScript    | 200         |                                      |                                                                                                                             |
+|58    | OpenEdge ABL    | 200         |                                      |                                                                                                                             |
+|59    | JavaScript      | 50          |                                      |                                                                                                                             |
+|60    | Python          | 10          |                                      |                                                                                                                             |
 
 
 ## Languages to try next:
